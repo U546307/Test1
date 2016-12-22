@@ -1,2 +1,2 @@
 making some modification!
-adding another line.
+git-test-clone: modifying the line: adding another line.

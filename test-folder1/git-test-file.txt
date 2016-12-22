@@ -1,2 +1,2 @@
 making some modification!
-adding another line.
+git-test-original: changing the same line: adding another line.

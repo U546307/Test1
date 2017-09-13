@@ -1,4 +1,4 @@
 changing this file.
 git-test-clone: modifying the line: adding another line.
 git-test-original: changing the same line: adding another line.
-adding a fourth line. Now, I am changing this file.
+what to create a new remote branch by pushing from a local existing branch. Now, I am changing this file.

@@ -2,4 +2,4 @@ changing this file.
 git-test-clone: modifying the line: adding another line.
 git-test-original: changing the same line: adding another line.
 adding a fourth line.
-adding a fifth line as a test! Adding some stuff for T3.
+adding a fifth line as a test! now, email test.

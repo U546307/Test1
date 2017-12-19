@@ -1,4 +1,7 @@
-changing this file.
+changing this file. adding some text to test this
+
+also adding this line.
+
 git-test-clone: modifying the line: adding another line.
 git-test-original: changing the same line: adding another line.
 adding a fourth line.
